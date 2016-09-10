@@ -1,0 +1,20 @@
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\config.json
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\TestListener.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\TestListener.pdb
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\Gurock.TestRail.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\nunit.core.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\nunit.core.interfaces.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\TestRail.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\Cryptography.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\bin\Debug\TestRail.pdb
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\obj\Debug\TestListener.csprojResolveAssemblyReference.cache
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\obj\Debug\TestListener.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestListener\obj\Debug\TestListener.pdb
+C:\NUnit-2.6.4\bin\addins\config.json
+C:\NUnit-2.6.4\bin\addins\TestListener.dll
+C:\NUnit-2.6.4\bin\addins\TestListener.pdb
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestListener\obj\Debug\TestListener.csprojResolveAssemblyReference.cache
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestListener\obj\Debug\TestListener.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestListener\obj\Debug\TestListener.pdb

@@ -1,0 +1,13 @@
+﻿{
+    configs:[
+        {key:"Project",value:"Retail"},         
+		{key:"ErrlogPath",value:"c:\\RetailAutomationResultLogs"},		
+		{key:"TestCaseSync",value:"Y"},
+		{Key:"TestResultIntegration",value:"Y"},
+		{key:"PlanName",value:"R68_Sprint1"},
+		{key:"Username",value:"encrypted username"},
+		{key:"Password",value:"encrypted password"},
+		{key:"TestCaseSyncWithFailedTestCase",value:"N"},
+		{key:"RunName",value:""}
+    ]
+}

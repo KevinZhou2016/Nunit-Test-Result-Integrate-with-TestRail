@@ -1,0 +1,20 @@
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestRail\bin\Debug\TestRail.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestRail\bin\Debug\TestRail.pdb
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestRail\bin\Debug\Cryptography.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestRail\bin\Debug\Gurock.TestRail.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestRail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestRail\bin\Debug\nunit.core.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestRail\bin\Debug\nunit.core.interfaces.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestRail\obj\x86\Debug\TestRail.csprojResolveAssemblyReference.cache
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestRail\obj\x86\Debug\TestRail.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration\TestRail\obj\x86\Debug\TestRail.pdb
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestRail\bin\Debug\TestRail.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestRail\bin\Debug\TestRail.pdb
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestRail\bin\Debug\Cryptography.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestRail\bin\Debug\Gurock.TestRail.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestRail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestRail\bin\Debug\nunit.core.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestRail\bin\Debug\nunit.core.interfaces.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestRail\obj\x86\Debug\TestRail.csprojResolveAssemblyReference.cache
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestRail\obj\x86\Debug\TestRail.dll
+C:\Users\kzhou\Perforce\gdcp4_5050\kzhou_PAS-VXI-29\QA\GDRetailAutomationIntegration - gt\TestRail\obj\x86\Debug\TestRail.pdb
