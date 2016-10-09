@@ -88,7 +88,7 @@ namespace TestRail
         }
          public bool Authvalidation()
          {             
-             string apiRequestStr = "get_user_by_email&email=kzhou@greendotcorp.com";             
+             string apiRequestStr = "get_user_by_email&email=kzhou@xxx.com";             
              JContainer user = (JContainer)client.SendGet(apiRequestStr);
              if (user == null)
              {
