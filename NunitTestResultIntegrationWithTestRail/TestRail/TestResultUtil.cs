@@ -105,7 +105,7 @@ namespace TestRail
          public void getuser()
          {
              //string apiRequestStr = "get_user/1";
-             string apiRequestStr = "get_user_by_email&email=qa_test_automation@greendotcorp.com";
+             string apiRequestStr = "get_user_by_email&email=qa_test@xxx.com";
              JContainer user = (JContainer)client.SendGet(apiRequestStr);
          }
 
